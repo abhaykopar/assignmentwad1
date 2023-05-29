@@ -1,0 +1,3 @@
+subject: WAD
+practical: git hub
+repository: 2
